@@ -38,7 +38,6 @@
 | [SENTINEL-ZAALIMA-main](https://github.com/sa960m5/SENTINEL-ZAALIMA-main) | Python | ⭐ 0 | 🍴 0 |
 | [face_age_estimator](https://github.com/sa960m5/face_age_estimator) | Python | ⭐ 0 | 🍴 0 |
 | [EAHP-Project-PHP](https://github.com/sa960m5/EAHP-Project-PHP) | PHP | ⭐ 0 | 🍴 0 |
-| [e_learning_application](https://github.com/sa960m5/e_learning_application) | Dart | ⭐ 1 | 🍴 0 |
 
 
 ## 📊 Shinobi Statistics

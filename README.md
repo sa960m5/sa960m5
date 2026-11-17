@@ -9,6 +9,17 @@
 </div>
 
 
+## 🚀 Profile Introduction
+
+<div align="center">
+
+<img src="./assets/hero.svg"
+     width="100%"
+     alt="Dynamic Profile Hero"/>
+
+</div>
+
+
 ## 🍃 About the Shinobi
 
 - 🥷 GitHub Ninja: **[@sa960m5](https://github.com/sa960m5)**
@@ -38,6 +49,17 @@
 | [SENTINEL-ZAALIMA-main](https://github.com/sa960m5/SENTINEL-ZAALIMA-main) | Python | ⭐ 0 | 🍴 0 |
 | [face_age_estimator](https://github.com/sa960m5/face_age_estimator) | Python | ⭐ 0 | 🍴 0 |
 | [EAHP-Project-PHP](https://github.com/sa960m5/EAHP-Project-PHP) | PHP | ⭐ 0 | 🍴 0 |
+
+
+## 🍥 My Ninja Way
+
+<div align="center">
+
+<img src="./assets/ninja-way/ninja-way.svg"
+     width="100%"
+     alt="Ninja Way Section"/>
+
+</div>
 
 
 ## 📊 Shinobi Statistics

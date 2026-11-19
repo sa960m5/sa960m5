@@ -43,12 +43,12 @@
 
 | Repository | Language | Stars | Forks |
 |---|---|---:|---:|
-| [SENTINEL-ZAALIMA](https://github.com/sa960m5/SENTINEL-ZAALIMA) | Python | ⭐ 0 | 🍴 0 |
-| [sa960m5](https://github.com/sa960m5/sa960m5) | Not specified | ⭐ 0 | 🍴 0 |
-| [naruto-profile](https://github.com/sa960m5/naruto-profile) | Python | ⭐ 0 | 🍴 0 |
-| [photon-v2](https://github.com/sa960m5/photon-v2) | Python | ⭐ 0 | 🍴 0 |
-| [SENTINEL-ZAALIMA-main](https://github.com/sa960m5/SENTINEL-ZAALIMA-main) | Python | ⭐ 0 | 🍴 0 |
-| [face_age_estimator](https://github.com/sa960m5/face_age_estimator) | Python | ⭐ 0 | 🍴 0 |
+| [sa960m5](https://github.com/sa960m5/sa960m5) | Not specified | ⭐ 2 | 🍴 0 |
+| [SENTINEL-ZAALIMA-main](https://github.com/sa960m5/SENTINEL-ZAALIMA-main) | Python | ⭐ 1 | 🍴 0 |
+| [photon-v2](https://github.com/sa960m5/photon-v2) | Python | ⭐ 1 | 🍴 0 |
+| [SENTINEL-ZAALIMA](https://github.com/sa960m5/SENTINEL-ZAALIMA) | Python | ⭐ 1 | 🍴 0 |
+| [face_age_estimator](https://github.com/sa960m5/face_age_estimator) | Python | ⭐ 1 | 🍴 0 |
+| [EAHP-Project-PHP](https://github.com/sa960m5/EAHP-Project-PHP) | PHP | ⭐ 1 | 🍴 0 |
 
 
 ## 🍥 My Ninja Way
